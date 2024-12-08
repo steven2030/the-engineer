@@ -1,1 +1,1 @@
-This is a test file
+{"encoding": "base64", "content": "VGhpcyBpcyBhbiB1cGRhdGVkIHRlc3QgZmlsZQ=="}
