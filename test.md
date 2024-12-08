@@ -1,1 +1,1 @@
-{"content": "This is a test file", "encoding": "utf8"}
+This is a test file
